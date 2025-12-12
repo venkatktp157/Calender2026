@@ -160,12 +160,12 @@ img {
 
 .grid a {
   display: block;
-  background: #f9995d;
+  background: #f359eb;
   padding: 15px;
   text-align: center;
   border-radius: 8px;
   text-decoration: none;
-  color: #2941b9;
+  color: #0a2192;
   font-weight: bold;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   transition: transform 0.2s ease;
@@ -220,7 +220,7 @@ img {
 
 .thumbs a {
   display: block;
-  width: 50px; /* fixed width for uniformity */
+  width: 60px; /* fixed width for uniformity */
   aspect-ratio: 4 / 3; /* maintains horizontal shape */
   overflow: hidden;
   border-radius: 6px;
